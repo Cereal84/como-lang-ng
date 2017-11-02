@@ -1,0 +1,5 @@
+#!/bin/sh
+
+autoreconf -i -f || exit 1
+
+exit 0
